@@ -1,0 +1,12 @@
+.title {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+  font-family: monospace;
+  color: blue;
+}
+
+.score, .bestScore {
+  font-family: Verdana;
+
+}
